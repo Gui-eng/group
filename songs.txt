@@ -1,4 +1,9 @@
 Sanctuary - Joji
 Fried Noodles - Joji
+<<<<<<< HEAD
 Paraluman - 
 
+=======
+tabun - yoasobi
+kanta ko - sa presinto
+>>>>>>> 66131dc251d248a62496cbd9c2e44a43d807398e
