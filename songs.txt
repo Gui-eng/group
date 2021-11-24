@@ -1,6 +1,7 @@
 Sanctuary - Joji
 Fried Noodles - Joji
 <<<<<<< HEAD
+<<<<<<< HEAD
 Bitin - Mt.Lewis
 One night stand - FourPlay MNL
 Lito - safemusicph
@@ -10,3 +11,11 @@ tabun - yoasobi
 
 >>>>>>> 2bbb883ac5fbf6eb4089f14cccac2d68ae5be7ce
 all of me - John Legend
+=======
+Paraluman - 
+
+=======
+tabun - yoasobi
+kanta ko - sa presinto
+>>>>>>> 66131dc251d248a62496cbd9c2e44a43d807398e
+>>>>>>> b50bf2b78063dcbe05544f354c3dbf6dea98a521
