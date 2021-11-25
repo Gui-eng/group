@@ -6,5 +6,6 @@ int main()
     printf("Hello world!\n");
     printf("Philip Guiang");
     printf("Emmanuel");
+    printf ("Alex");
     return 0;
 }
