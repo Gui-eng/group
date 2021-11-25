@@ -16,7 +16,7 @@ Paraluman -
 
 =======
 tabun - yoasobi
-kanta ko - sa presinto
+
 >>>>>>> 66131dc251d248a62496cbd9c2e44a43d807398e
 <<<<<<< HEAD
 
@@ -32,3 +32,6 @@ safa
 >>>>>>> b50bf2b78063dcbe05544f354c3dbf6dea98a521
 Hope - Namie Amuro
 >>>>>>> a2ca191a565fa61ee370fe3c2c73326ef3d53dd5
+
+abcdefghijklmnopqrstuvwxyz
+1234567890
